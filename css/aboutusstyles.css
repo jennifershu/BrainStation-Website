@@ -45,3 +45,41 @@ body {
 	float: left;
 	height: 90%;
 }
+
+#title {
+	margin-top: 50px;
+	margin-left: 550px;
+}
+
+#para {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#titles {
+	margin-left: 500px;
+}
+
+#paras {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#parass {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#elec {
+	width:350px;height:350px;border:8px solid green; 
+	margin-left: 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#elecs {
+	width:350px;height:350px;border:8px solid green; 
+	margin-right: 300px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}

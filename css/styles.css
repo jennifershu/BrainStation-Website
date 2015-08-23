@@ -1,0 +1,103 @@
+body {
+	background-color: #548235
+}
+
+#banner {
+	width: 100%;
+}
+
+div {
+	border: 2px solid black;
+}
+
+.firstDiv {
+	position: relative;
+	height: 100px;
+	padding: 0px;
+}
+
+#logo {
+	position: absolute;
+	float:left;
+	height: 200%;
+	margin: -40px;
+	padding: 0px;
+}
+
+.miniDivs {
+	height: 100px;
+	position: relative;
+	padding-right: 200px;
+}
+
+.btn {
+	position: absolute;
+	border-radius: 20px;
+ 	border-color: #A9D18E;
+ 	color: white;
+ 	background-color: #A9D18E;
+ 	padding: 20px 120px 10px 65px;
+ 	width: 8%;
+ 	font-family: "Century Gothic""Impact"  "Arial" ;
+ 	font-weight: bold;
+ 	font-size: 20px;
+ 	margin: 15px;
+}
+
+.bulbs {
+	position: absolute;
+	float: left;
+	height: 90%;
+}
+
+.bigDiv {
+	position:relative;
+	height: 300px;
+	text-align: center;
+}
+
+#bigQuote {
+	position: absolute;
+	font-family: "Century Gothic" "Arial";
+	color: white;
+	font-size: 380%;
+	width: 80%;
+	margin-left: 8%;
+	margin-top: 10%;
+}
+
+#apology {
+	color:#F4B183;
+}
+
+.chords {
+	position: absolute;
+	height: 50%;
+	
+}
+
+#pinkUSB1 {
+	margin-top: 5%;
+}
+
+.chordBox {
+	height: 100px;
+	position: relative;
+}
+
+.textureBox {
+	position: relative;
+	height: 300px;
+}
+
+#firstParagraph {
+	position: absolute;
+	width: 50%;
+	height: 250px;
+	margin: 0px, 25%;
+}
+
+
+#yellowUSB1 {
+}
+

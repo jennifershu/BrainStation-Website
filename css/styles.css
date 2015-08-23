@@ -6,9 +6,7 @@ body {
 	width: 100%;
 }
 
-div {
-	border: 2px solid black;
-}
+
 
 .firstDiv {
 	position: relative;
@@ -72,32 +70,68 @@ div {
 
 .chords {
 	position: absolute;
-	height: 50%;
+	width: 75%;
 	
 }
 
 #pinkUSB1 {
-	margin-top: 5%;
+	margin-top: 10%;
 }
 
 .chordBox {
-	height: 100px;
+	height: 110px;
 	position: relative;
 }
 
 .textureBox {
 	position: relative;
-	height: 300px;
+	height: 400px;
 }
 
 #firstParagraph {
 	position: absolute;
-	width: 50%;
-	height: 250px;
-	margin: 0px, 25%;
+	width: 70%;
+	height: 270px;
+	margin: 5% 0px;
 }
 
+.chordBox1 {
+	text-align: right;
+}
 
 #yellowUSB1 {
+	right: 0%;
+	margin-top: 0%;
 }
+
+#ipod {
+	height: 40%;
+	margin: 22% 0px 0px 8%;
+}
+
+.lastParagraph {
+	height: 500px;
+	text-align: right;
+}
+
+#paragraphs {
+	border: 4px dotted #AFDC7E;
+	background-color: #92D050;
+	height: 300px;
+	border-radius: 20px;
+}
+
+#learnHow {
+	font-family: "Century Gothic" "Arial";
+	font-size: 22px;
+	font-weight: bold;
+	color: white;
+	padding: 15px 10px;
+}
+
+.label {
+	font-size: 22px;
+	padding: 10px;
+}
+
 

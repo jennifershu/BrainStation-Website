@@ -75,6 +75,7 @@ body {
 	margin-left: 300px;
 	margin-top: 30px;
 	margin-bottom: 30px;
+	border-radius: 100%;
 }
 
 #elecs {
@@ -82,4 +83,16 @@ body {
 	margin-right: 300px;
 	margin-top: 30px;
 	margin-bottom: 30px;
+	border-radius: 100%;
 }
+
+#parass {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+Footer {
+	text-align: center;
+	color: #000000;
+}
+

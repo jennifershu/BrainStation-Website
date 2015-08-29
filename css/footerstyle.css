@@ -1,0 +1,175 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.wrapper{
+	width: 100%;
+	bottom: 0px;
+	position: relative;
+	height: 250px;
+	margin-top: 8px;
+}
+
+.wrap{
+	width: 100%;
+	height: 300px;
+
+}
+
+#top{
+	background-color: #548235
+}
+
+#middle{
+	background-color: #70AD47
+}
+
+#bottom{
+	background-color: #A9D18E
+}
+
+.title{
+	font-size: 35px; 
+	font-family: "Arial Black";
+	margin:5px 0px;
+}
+
+#topWords, #middleWords{
+	color: #E2F0D9;
+}
+
+#bottomWords {
+	color:#385723;
+}
+
+
+
+
+
+#background{
+	position: absolute;
+	width:100%;
+	height: 250px;
+	float:	left;
+}
+
+.social {
+  position: absolute;
+  text-align: center;
+}
+
+.social .link {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: 2px dashed white;
+  background-clip: content-box;
+  padding: 5px;
+  transition: .5s;
+  color: #D7D0BE;
+  margin-left: 20px;
+  margin-right: 15px;
+  margin-top: 10px;
+  text-shadow:
+    0 -1px 0 rgba(0, 0, 0, 0.2),
+    0 1px 0 rgba(255, 255, 255, 0.2);
+  font-size: 70px;
+}
+
+.social .link span {
+  display: block;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.social .link:hover {
+  padding: 20px;
+  color: white;
+  margin-left: -5px;
+  transform: translateX(10px) rotate(360deg);
+}
+
+.social .link.google-plus {
+  background-color: #286D12;
+  color: white;
+}
+
+.social .link.twitter {
+  background-color: #286D12;
+  color: white;
+}
+
+.social .link.facebook {
+  background-color: #286D12;
+  color: red;
+  margin-left: 575px;
+}
+
+.links{
+	position: absolute;
+	color: #124C0B;
+	font-family:  Arial;
+	text-decoration: none;
+	top: 36%;
+}
+
+.links:hover{
+	font-weight: bold;
+}
+
+#home1{
+	left: 38%;
+}
+
+#about1{
+	left: 48%;
+}
+
+#contact1{
+	left: 59%;
+}
+
+#donate{
+	top: 53%;
+	position: absolute;
+	font-weight: bold;
+	color: #124C0B;
+	font-size: 20px;
+	left: 46.5%;
+	text-decoration: none;
+	font-family:arial;
+}
+
+#donate:hover{
+	color: #22AB19;
+	text-decoration: underline;
+}
+.words{
+	color: #E4FBE0;
+	position: absolute;	
+	text-align: center;
+}
+
+#rights{
+	bottom: 4px;
+	right: 40%;
+    
+}
+
+
+#disclaimer{
+	bottom: -12px;
+	right: 18%;
+}
+
+ 
+.separator5 {
+	height: 100px;
+}

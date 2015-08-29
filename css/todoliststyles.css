@@ -1,0 +1,60 @@
+
+.responsibilities {
+	text-align: center;
+}
+
+#ourResponsibility {
+	font-family: "Century Gothic" "Arial";
+	font-size: 30px;
+	padding-top: 70px;
+	color: white;
+	font-weight: bold;
+}
+
+.line1 {
+	border: 4px dashed white;
+}
+
+.method1 {
+	top: 15px;
+	color: white;
+	font-family: "Century Gothic";
+}
+
+.methodHead {
+	margin-top: 5%;
+	font-size: 22px;
+	font-weight: bold;
+	color:#AFDC7E;
+}
+
+#icon1 {
+	position: relative;
+	top: 50px;
+}
+
+.methodParagraph {
+	font-size: 16px;
+}
+
+.separator {
+	height: 82px;
+}
+
+.icon2 {
+	position: relative;
+	top: -40px;
+}
+
+.separator2 {
+	height: 32px;
+}
+
+.icon3 {
+	top: 50px;
+}
+
+.separator4 {
+	height: 47px;
+}
+

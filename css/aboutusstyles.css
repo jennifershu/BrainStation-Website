@@ -49,25 +49,38 @@ body {
 #title {
 	margin-top: 50px;
 	margin-left: 550px;
+	color: black;
 }
 
 #para {
 	margin-left: 50px;
 	margin-right: 50px;
+	color: black;
+}
+
+#enviro {
+	width:250px;height:250px;border:6px solid green; 
+	margin-left: 550px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 0%;
 }
 
 #titles {
 	margin-left: 500px;
+	color: black;
 }
 
 #paras {
 	margin-left: 50px;
 	margin-right: 50px;
+	color: black;
 }
 
 #parass {
 	margin-left: 50px;
 	margin-right: 50px;
+	color: black;
 }
 
 #elec {
@@ -75,7 +88,7 @@ body {
 	margin-left: 300px;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	border-radius: 100%;
+	border-radius: 0%;
 }
 
 #elecs {
@@ -83,16 +96,19 @@ body {
 	margin-right: 300px;
 	margin-top: 30px;
 	margin-bottom: 30px;
-	border-radius: 100%;
+	border-radius: 0%;
 }
 
 #parass {
 	margin-left: 50px;
-	margin-right: 50px;
+	margin-right: 50px; 
+	color: black;
 }
 
-Footer {
-	text-align: center;
-	color: #000000;
+#parasss {
+ 	text-align: center;
+	color: black;
 }
+
+
 

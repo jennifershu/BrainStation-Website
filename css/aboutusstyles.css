@@ -46,6 +46,11 @@ body {
 	height: 90%;
 }
 
+#lines {
+	width: 100%;
+	border: 6px dashed white;
+}
+
 #title {
 	margin-top: 50px;
 	margin-left: 550px;
@@ -59,7 +64,7 @@ body {
 }
 
 #enviro {
-	width:250px;height:250px;border:6px solid green; 
+	width:250px;height:250px;border:6px  solid white; 
 	margin-left: 550px;
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -84,7 +89,7 @@ body {
 }
 
 #elec {
-	width:350px;height:350px;border:8px solid green; 
+	width:350px;height:350px;border:6px  solid white; 
 	margin-left: 300px;
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -92,7 +97,8 @@ body {
 }
 
 #elecs {
-	width:350px;height:350px;border:8px solid green; 
+	width:350px;height:350px;
+	border:6px solid white;  
 	margin-right: 300px;
 	margin-top: 30px;
 	margin-bottom: 30px;
@@ -108,6 +114,12 @@ body {
 #parasss {
  	text-align: center;
 	color: black;
+	font-size: 30px;
+}
+
+#line {
+	width: 100%;
+	border: 6px dashed white;
 }
 
 

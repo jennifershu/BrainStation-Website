@@ -6,7 +6,7 @@
 	text-align: center;
 }
 
-#bigQuote {
+.bigQuote {
 	position: absolute;
 	font-family: "Century Gothic" "Arial";
 	color: white;
@@ -15,6 +15,14 @@
 	margin-left: 8%;
 	margin-top: 10%;
 }
+
+#bigQuote2 {
+	position: absolute;
+	font-size: 280%;
+	width: 100%;
+	top: -15%;
+}
+
 
 #apology {
 	color:#F4B183;
@@ -93,6 +101,9 @@
 	font-family: "Century Gothic" "Arial";
 }
 
+.vidDiv {
+	text-align: center;
+}
 
 #ewasteIntro {
 	color: white;
@@ -111,4 +122,12 @@ ul {
 	height: auto;
 	min-height: 300px;
 	overflow: hidden;
+}
+
+#typesOfEWaste {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: "Century Gothic";
 }
